@@ -1,5 +1,5 @@
 # FirstDB
-creare cartella desiderata, aprire tramite VSCode
+creare cartella destinataria del codice, aprire tramite VSCode
 
 eseguire "dotnet new console" sul terminale per creare l'app console
 
